@@ -40,10 +40,10 @@ const Qualifications = () => {
             : "qualification__content" }>
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title"> Web Design </h3>
-                <span className="qualification__subtitle"> UC Davis </span>
+                <h3 className="qualification__title"> Full Stack Web Development </h3>
+                <span className="qualification__subtitle"> UC Irvine </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"> 2022- Present </i>
+                  <i className="uil uil-calendar-alt"> 2023 </i>
                 </div>
               </div>
 
@@ -63,15 +63,15 @@ const Qualifications = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title"> Art Director </h3>
+                <h3 className="qualification__title"> Neuroscience </h3>
                 <span className="qualification__subtitle"> UC Davis </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"> 2022- Present </i>
+                  <i className="uil uil-calendar-alt"> 2015 - 2019 </i>
                 </div>
               </div>
             </div>
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title"> Web Development </h3>
                 <span className="qualification__subtitle"> UC Davis </span>
@@ -85,9 +85,9 @@ const Qualifications = () => {
                 <span className="qualification__line"></span>
               </div>
 
-            </div>
+            </div> */}
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div></div>
 
               <div>
@@ -102,7 +102,7 @@ const Qualifications = () => {
                   <i className="uil uil-calendar-alt"> 2022- Present </i>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
 
           <div className= {toggleState === 2 
@@ -111,10 +111,10 @@ const Qualifications = () => {
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title"> Product Designer </h3>
-                <span className="qualification__subtitle"> UC Davis </span>
+                <h3 className="qualification__title"> MERN Stack App </h3>
+                <span className="qualification__subtitle"> To-Done </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"> 2022- Present </i>
+                  <i className="uil uil-calendar-alt"> 2023 </i>
                 </div>
               </div>
 
@@ -134,20 +134,20 @@ const Qualifications = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title"> UX Designer </h3>
-                <span className="qualification__subtitle"> UC Davis </span>
+                <h3 className="qualification__title"> Full Stack App </h3>
+                <span className="qualification__subtitle"> Library Management </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"> 2022- Present </i>
+                  <i className="uil uil-calendar-alt"> 2023 </i>
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title"> Web Designer </h3>
-                <span className="qualification__subtitle"> UC Davis </span>
+                <h3 className="qualification__title"> Front End App </h3>
+                <a href="https://sdanimc.github.io/shire-board-game/" target="{_blank}" className="qualification__subtitle"> Board & Booze </a>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"> 2022- Present </i>
+                  <i className="uil uil-calendar-alt"> 2023 </i>
                 </div>
               </div>
               
